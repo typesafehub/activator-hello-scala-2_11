@@ -2,6 +2,6 @@ name := "hello-scala"
 
 version := "1.0"
 
-scalaVersion := "2.10.2"
+scalaVersion := "2.11.0"
 
-libraryDependencies += "org.scalatest" %% "scalatest" % "1.9.1" % "test"
+libraryDependencies += "org.scalatest" % "scalatest_2.11.0-RC4" % "2.1.3" % "test"
